@@ -1,0 +1,23 @@
+{
+  "name": "paytmnode.js",
+  "version": "1.0.0",
+  "description": "Integrate Paytm wallet using Node Js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Harsh Kagathara",
+    "email": "harshkagu29@gmail.com",
+    "url": "https://infusion-infotech.com/"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.10",
+    "nodemon": "^2.0.4"
+  }
+}
