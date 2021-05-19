@@ -1,5 +1,5 @@
 {
-  "name": "paytmnode.js",
+  "name": "node integrate paytm payment Gateway",
   "version": "1.0.0",
   "description": "Integrate Paytm wallet using Node Js",
   "main": "index.js",
